@@ -1,0 +1,54 @@
+.banner-container{
+    background-color:blanchedalmond;
+}
+
+.banner-column{
+    background-color: orange;
+}
+
+.about-container{
+    background-color: brown;
+}
+
+.education-container{
+    background-color: orange;
+}
+
+.box-container{
+    background-color: yellow;
+}
+
+.project-container{
+    background-color: aquamarine;
+}
+
+.gallery-container{
+    background-color: yellowgreen;
+}
+
+.form-container{
+    background-color: brown;
+}
+
+.circle{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 40px;
+    text-align: center;
+    font-size: 48px;
+}
+
+.circle:hover{
+    background-color: brown;
+}
+
+a:link{
+    color: orange;
+    text-decoration: none;
+}
+
+a:hover{
+    color: orangered;
+}
